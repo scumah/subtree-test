@@ -11,6 +11,6 @@
  * file per style scope.
  *
  *= require_tree .
- *= require_tree ./subtree/shared-code
+ *= require_tree ./subtree
  *= require_self
  */
